@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Aprender _Linux_
 
 _Aprender *Linux*_ es una introducción a este sistema operativo de desarrollo informático libre.
