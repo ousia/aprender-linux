@@ -3,4 +3,9 @@
 
 @import "";
 
-ul li { list-style-type: disc; }
+ul li {
+  list-style: disc;
+}
+
+ul li:before {
+}
